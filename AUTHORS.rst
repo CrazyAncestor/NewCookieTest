@@ -5,7 +5,7 @@ Credits
 Development Lead
 ----------------
 
-* Wen-Hua Wu <colonist288@gmail.com>
+* Wen-Hua Wu <aw106@rice.edu>
 
 Contributors
 ------------
